@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "odev"
+    }
+  },
+  "defaultProject": "odev",
+  "cli": {
+    "analytics": false
+  }
 }
